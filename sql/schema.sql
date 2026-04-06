@@ -1,3 +1,9 @@
+CREATE DATABASE retail_db;
+
+USE retail_db;
+
+
+
 CREATE TABLE sales (
     sales DATE,
     year INT,
@@ -15,3 +21,4 @@ CREATE TABLE sales (
     vehicle_type TEXT,
     city TEXT
 );
+

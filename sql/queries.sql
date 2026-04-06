@@ -1,0 +1,4 @@
+SELECT * FROM sales LIMIT 20;
+
+SELECT * FROM sales
+WHERE year = 2020;
