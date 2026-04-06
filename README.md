@@ -126,7 +126,11 @@ Retail-Sales-Analysis/
 │   ├── schema.sql           # Database structure
 │   ├── load_data.sql        # Data loading script
 │   └── queries.sql          # Analytical queries
+│── dashboard
+│    ├── powerbi
 │
+│
+├── sreamlit_app
 │
 ├── README.md
 └── requirements.txt
